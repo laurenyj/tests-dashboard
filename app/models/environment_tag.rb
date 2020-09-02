@@ -1,0 +1,2 @@
+class EnvironmentTag < ApplicationRecord
+end
